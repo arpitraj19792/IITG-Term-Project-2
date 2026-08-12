@@ -86,7 +86,7 @@ def set_bg_from_local(image_path):
     except FileNotFoundError:
         st.warning(f"Couldn't load background image at {image_path}")
 
-set_bg_from_local(r"C:\Users\ujjwa\Desktop\project\IITG-P2-main\src\BG_Wallpaper.jpg")
+set_bg_from_local(r"C:\Users\arpit\Downloads\IITG-P2-main (1)\IITG-P2-main\src\BG_Wallpaper.jpg")
 
 # Core engine initialization with caching
 @st.cache_resource
