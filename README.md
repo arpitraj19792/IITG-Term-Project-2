@@ -14,7 +14,7 @@ A highly optimized, content-based Anime Recommendation Engine built with Python 
 ## 📂 Project Structure
 
 ```text
-📁 IITG-P2
+📁 IITG-Term-Project-2
 ├── 📁 .venv                                 # Python virtual environment
 ├── 📁 src                                   # Main source code directory
 │   ├── 📄 anime-offline-database-minified.json # The dataset
@@ -42,8 +42,8 @@ Follow these steps to get the project running on your local machine:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Ujjwals-GHub/IITG-P2.git
-cd IITG-P2
+git clone https://github.com/arpitraj19792/IITG-Term-Project-2
+cd IITG-Term-Project-2
 ```
 
 **2. Create and activate a Virtual Environment**
